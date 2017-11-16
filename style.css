@@ -1,0 +1,53 @@
+body{
+    background: #27AE60;
+
+}
+
+.g-body{
+    position: absolute;
+    width: 550px;
+    top: 25%;
+    left: 33%;
+    
+}
+
+.m-body{
+    width: 100%;
+    background: #FFFFFF;
+    border-radius: 4px;
+    padding: 40px 50px;
+}
+.m-body .btns{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.m-body .btngroup{
+    float: left;
+}
+.m-content{
+    font-size: 1.4em;
+    text-align: center;
+}
+.m-author{
+    font-size: 1.2em;
+}
+.m-body .quote{
+    float: right;
+}
+.fa-twitter,.fa-facebook{
+    color: #FFFFFF;
+}
+
+.quote button{
+    color: #FFFFFF;
+}
+
+
+.m-footer{
+    margin-top: 20px;
+    color: #FFFFFF;
+}
+
+.m-footer a{
+    color: #FFFFFF;
+}
